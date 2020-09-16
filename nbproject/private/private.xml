@@ -11,6 +11,17 @@
         </file>
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/nbproject/build-impl.xml</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/src/java/config/Conexion.java</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/web/Inicio.jsp</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/web/RegistrarVenta.jsp</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/src/java/config/GenerarSerie.java</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/src/java/Modelo/ClienteDAO.java</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/web/Clientes.jsp</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/web/Principal.jsp</file>
+            <file>file:/C:/xampp/tomcat/webapps/SistemasVentasWeb/src/java/config/Prueba.java</file>
+        </group>
     </open-files>
 </project-private>
